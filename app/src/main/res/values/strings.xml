@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MaterialDemo</string>
+    <string name="menu_setting">Settings</string>
+    <string name="label_main">MaterialDemo</string>
+    <string name="menu_backup">Backup</string>
+    <string name="menu_delete">Delete</string>
+    <string name="nav_call">Call</string>
+    <string name="nav_friends">friends</string>
+    <string name="nav_location">location</string>
+    <string name="nav_mail">mail</string>
+    <string name="nav_task">task</string>
+    <string name="mail">mengjies06@163.com</string>
+    <string name="username">mengjie li</string>
+
+    <!--Permission-->
+    <string name="permission_init_alert">需要访问位置、读写存储卡、读取手机识别码等权限</string>
+    <string name="permission_ask_again">相关权限被禁止，应用将不能正常使用，需要到系统应用管理界面更改设置，是否去设置？</string>
+    <string name="title_settings_dialog">设置权限</string>
+    <string name="text_setting">设置</string>
+    <string name="text_ok">确认</string>
+    <string name="text_cancel">取消</string>
+
+</resources>
